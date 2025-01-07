@@ -1,6 +1,6 @@
-var x = 1;
-a();
-b();
+var x = 1; // assigned to global space
+a(); // assigned to global space
+b(); // assigned to global space
 console.log(x);
 
 // defining fn->a
