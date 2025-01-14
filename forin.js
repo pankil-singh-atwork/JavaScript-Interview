@@ -8,3 +8,4 @@ const person = {
 for (const itr in person) {
   console.log(`${itr} : ${person[itr]}`);
 }
+
