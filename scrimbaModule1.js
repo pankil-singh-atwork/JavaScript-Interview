@@ -104,3 +104,12 @@ Challenge-5:
 //   }, 1000);
 // }
 // startCountdown('Macbook');
+
+// if (age >= 18) {
+//     status = 'adult';
+// } else {
+//     status = 'minor';
+// }
+const age = 21;
+const statusPerson = age >= 18 ? "adult" : "minor";
+console.log(statusPerson);
